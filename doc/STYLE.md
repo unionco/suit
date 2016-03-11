@@ -32,7 +32,7 @@
 ## 2. Whitespace
 
 * Use whitespace to improve readability.
-* Use 2 spaces for indentation.
+* Use 4 spaces for indentation.
 * Don't use more than one blank line as a separator.
 * Strip all end-of-line and end-of-file whitespace.
 
@@ -220,7 +220,7 @@ Example:
  *
  * TODO: This is a todo statement that describes an atomic task to be completed
  *   at a later date. It wraps after 80 characters and following lines are
- *   indented by 2 spaces.
+ *   indented by 4 spaces.
  *
  * @tag This is a tag named 'tag'
  *
